@@ -23,6 +23,9 @@ dependencies:
   '@mui/material-nextjs':
     specifier: latest
     version: registry.npmjs.org/@mui/material-nextjs@5.15.11(@emotion/cache@11.11.0)(@mui/material@5.15.14)(@types/react@18.2.73)(next@14.1.4)(react@18.2.0)
+  '@mui/system':
+    specifier: ^5.15.14
+    version: registry.npmjs.org/@mui/system@5.15.14(@emotion/react@11.11.4)(@emotion/styled@11.11.5)(@types/react@18.2.73)(react@18.2.0)
   next:
     specifier: latest
     version: registry.npmjs.org/next@14.1.4(react-dom@18.2.0)(react@18.2.0)
